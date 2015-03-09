@@ -3,7 +3,7 @@ package src;
 /**
  * Created by Gøran on 09.03.2015.
  * Jens: Ivan er GAY
- * Ny kommentar
+ * hahahaha
  */
 
 public class SecondClass {
