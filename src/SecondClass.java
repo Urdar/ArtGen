@@ -2,7 +2,6 @@ package src;
 
 /**
  * Created by Gøran on 09.03.2015.
- * Jens: Jarle er GAY
  * Jens: Ivan er GAY
  * Ny kommentar
  */
@@ -13,6 +12,7 @@ public class SecondClass {
         this.face = face;
         this.coffee = coffee;
         this.soda = soda;
+
 
     }
     // (O.O)
