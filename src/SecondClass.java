@@ -7,6 +7,11 @@ package src;
  */
 
 public class SecondClass {
+
+    public SecondClass(int face, String coffee) {
+        this.face = face;
+        this.coffee = coffee;
+    }
     // (O.O)
     // Jensemannen start
     // ..
