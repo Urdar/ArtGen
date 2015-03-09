@@ -15,11 +15,5 @@ public class SecondClass {
 
 
     }
-    // (O.O)
-    // Jensemannen start
-    // ..
-    // ..
-    // ..
-    // ..
-    // Jensemannen end f
+
 }
