@@ -11,11 +11,5 @@ public class SecondClass {
         this.coffee = coffee;
         this.soda = soda;
     }
-    // (O.O)
-    // Jensemannen start
-    // ..
-    // ..
-    // ..
-    // ..
-    // Jensemannen end f
+
 }
