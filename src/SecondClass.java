@@ -3,7 +3,7 @@ package src;
 /**
  * Created by Gøran on 09.03.2015.
  * Jens: Jarle er GAY
- * kakakaka
+ * Jens: Ivan er GAY
  */
 
 public class SecondClass {
@@ -12,4 +12,11 @@ public class SecondClass {
         this.face = face;
         this.coffee = coffee;
     }
+    // (O.O)
+    // Jensemannen start
+    // ..
+    // ..
+    // ..
+    // ..
+    // Jensemannen end f
 }
