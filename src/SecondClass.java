@@ -6,5 +6,9 @@ package src;
  */
 
 public class SecondClass {
-    // (O.O)
+
+    public SecondClass(int face, String coffee) {
+        this.face = face;
+        this.coffee = coffee;
+    }
 }
