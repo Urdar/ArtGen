@@ -1,9 +1,7 @@
-package src;
-
 /**
  * Created by Gøran on 09.03.2015.
  * Jens: Ivan er GAY
- * hahahaha
+ * hahahaha *hulk*
  */
 
 public class SecondClass {
@@ -12,8 +10,6 @@ public class SecondClass {
         this.face = face;
         this.coffee = coffee;
         this.soda = soda;
-
-
     }
     // (O.O)
     // Jensemannen start
