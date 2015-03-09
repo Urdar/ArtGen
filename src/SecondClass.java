@@ -1,6 +1,5 @@
 /**
  * Created by Gøran on 09.03.2015.
- * Jens: Ivan er GAY
  * hahahaha *hulk*
  */
 
