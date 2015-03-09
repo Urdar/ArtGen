@@ -1,16 +1,20 @@
 /**
  * Created by Gøran on 09.03.2015.
+ * Jens: Ivan er GAY
+ * hahahaha *hulk*
  */
 
 public class SecondClass {
 
-    int face = 10;
-    String coffee = "Ohmygod it's coffee.";
+    private int face;
 
-    public SecondClass() {
+    private int coffee;
+    private int soda;
 
+    public SecondClass(int face, int coffee) {
+        this.face = face;
+        this.coffee = coffee;
+        this.soda = soda;
     }
-    public void say(){
-        System.out.println(coffee);
-    }
+
 }
